@@ -10,5 +10,5 @@ coverImage: 'https://outstatic-test-azure.vercel.app/_next/image?url=%2Fimages%2
 publishedAt: '2022-10-24T11:01:14.630Z'
 ---
 
-Lorem ipsum
+Lorem ipsum2
 
