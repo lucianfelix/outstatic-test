@@ -3,6 +3,7 @@ title: 'Nothing is wrong. Everything is perfect'
 status: 'published'
 author:
   name: 'Andre Vitorio'
+  picture: ''
 slug: 'nothing-wrong'
 description: 'One more day, one more joy. I feel blessed.'
 coverImage: '/images/industrial-pattern.png'
@@ -22,3 +23,8 @@ let happy = 'be'
 ```
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+
+
+
+Lorem ipsum
+
